@@ -1,6 +1,6 @@
 # maria
 
-学习 MVC
+MVC
 
 ## referance
 
